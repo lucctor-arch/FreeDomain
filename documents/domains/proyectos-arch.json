@@ -1,0 +1,14 @@
+{
+  "description": "Dominio base para exponer localhost via Cloudflare Tunnels para pruebas",
+  "repo": "https://github.com/lucctor-arch/FreeDomain",
+  "owner": {
+    "username": "lucctor-arch",
+    "email": "Lucctor@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "denver.ns.cloudflare.com",
+      "vera.ns.cloudflare.com"
+    ]
+  }
+}
